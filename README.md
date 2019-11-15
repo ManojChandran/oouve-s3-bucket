@@ -1,2 +1,1 @@
-# oouve-s3-bucket
-S3 Bucket
+# S3 bucket to store state file
